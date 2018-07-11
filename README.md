@@ -1,5 +1,5 @@
 # hello-world
-This is my first repository. I'm a baby programmer.
+This is my first repository. I'm an educator and baby programmer.
 
 My name is Mike and I like to learn. 
 Here I am learning about programming and wondering why this is the font that serious programming stuff is done in.
